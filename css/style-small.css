@@ -36,6 +36,12 @@
 		display: block;
 		width: 100%;
 	}
+
+	#disclaimer {
+		width: 90%;
+		font-style: italic;
+	}
+
 /* Section/Article */
 
 	header.major {

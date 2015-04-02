@@ -44,6 +44,12 @@
 		margin: 0 0 2em 0;
 	}
 
+	#disclaimer {
+		margin: 10px auto;
+		width: 70%;
+		font-style: italic;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #666f77;
 		font-weight: 300;

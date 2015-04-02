@@ -12,6 +12,11 @@
 		font-size: 12pt;
 	}
 
+	#disclaimer {
+		width: 90%;
+		font-style: italic;
+	}
+
 /* Wrapper */
 
 	.wrapper {
