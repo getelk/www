@@ -37,6 +37,13 @@
 		#banner .button {
 			min-width: 0;
 		}
+		code {
+			margin: 2em;
+		}
+
+		img.steps {
+			margin: 0em;
+		}
 
 /* Layers */
 

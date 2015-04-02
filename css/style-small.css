@@ -25,6 +25,17 @@
 		line-height: 1.5em;
 	}
 
+	code {
+		margin: 0.1em;
+		display: block;
+		width: 100%;
+	}
+
+	img.steps {
+		margin: 0em;
+		display: block;
+		width: 100%;
+	}
 /* Section/Article */
 
 	header.major {
